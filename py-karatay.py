@@ -39,4 +39,4 @@ for i in range(0, len(duyurular)):
     except:
         pass
 file.close()
-print("bitti")
+print("finish")
